@@ -1,0 +1,1 @@
+# This is a terraform template to create a windows 11 VM on Azure.
